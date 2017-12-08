@@ -1,0 +1,14 @@
+{
+    "name": "nahidulhasan/laravel-google-spreadsheet",
+    "description": "Read data from google-spreadsheet and insert into database",
+    "type": "no",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nahid35",
+            "email": "nahidul.cse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
